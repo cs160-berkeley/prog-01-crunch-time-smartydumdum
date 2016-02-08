@@ -1,22 +1,21 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This app calculates the amount of calories you've burned after doing a certain exercise. First choose the type of exercise you did. Then type the reps or minutes you've done and click "CONVERT". On the final screen, you see the converted calories and suggestions of other exercises you can do to get the same amount calories. At the bottom of the screen, you can press "TRY AGAIN" to repeat the process and convert more exercises to calories.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Ruth Linda Zhang ([rlzhang@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Calorie Converter] (https://youtu.be/kp5nk7idseU)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/3.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+Lots of stackoverflow.com
